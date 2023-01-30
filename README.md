@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **personal portfolio**
 
-- 🌱 I’m currently learning **C++, DSA, Reactjs**
+- 🌱 I’m currently learning **C++, DSA**
 
 - 💬 Ask me about **Web Development, Programming**
 
