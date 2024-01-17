@@ -41,8 +41,6 @@
 
 
 
-
-
 <h1 align="center">Hi 👋, I'm Richa Agrawal</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
@@ -52,7 +50,15 @@
 
 <p align="left"> <a href="https://twitter.com/imrichaagrawal" target="blank"><img src="https://img.shields.io/twitter/follow/imrichaagrawal?logo=twitter&style=for-the-badge" alt="imrichaagrawal" /></a> </p>
 
+- 🔭 I’m currently working in **MyTeam11**
+
+- 🌱 I’m currently learning **Unity, Android Studio**
+
 - 👨‍💻 All of my projects are available at [https://github.com/ag-richa-13](https://github.com/ag-richa-13)
+
+- 💬 Ask me about **Web Developement, Programming,& Testing**
+
+- 📫 How to reach me **agrawalricha013@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ag-richa-13s/](https://www.linkedin.com/in/ag-richa-13s/)
 
@@ -60,9 +66,9 @@
 <p align="left">
 <a href="https://twitter.com/imrichaagrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imrichaagrawal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ag-richa-13s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ag-richa-13s/" height="30" width="40" /></a>
-<a href="https://instagram.com/r.i._c_.h.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.i._c_.h.a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/agricha13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="agricha13" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ag_richa13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ag_richa13" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/r.i._c_.h.a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/r.i._c_.h.a/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/agricha13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/agricha13/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/ag_richa13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ag_richa13" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
