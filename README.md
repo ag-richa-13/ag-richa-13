@@ -9,17 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/imrichaagrawal" target="blank"><img src="https://img.shields.io/twitter/follow/imrichaagrawal?logo=twitter&style=for-the-badge" alt="imrichaagrawal" /></a> </p>
 
-- 🔭 I’m currently working in **MyTeam11**
+- 💻 I’m currently working as **Software Developer** in **MyTeam11**
 
 - 🌱 I’m currently learning **Unity, Android Studio**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ag-richa-13](https://github.com/ag-richa-13)
+- 👨‍💻 All of my projects are available at **[https://github.com/ag-richa-13](https://github.com/ag-richa-13)**
 
-- 💬 Ask me about **Web Developement, Programming,& Testing**
+- 💬 Ask me about **Web Developement, Programming, & Testing**
 
 - 📫 How to reach me **agrawalricha013@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ag-richa-13s/](https://www.linkedin.com/in/ag-richa-13s/)
+- 📄 Know about my experiences **[https://www.linkedin.com/in/ag-richa-13s/](https://www.linkedin.com/in/ag-richa-13s/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
