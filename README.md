@@ -1,9 +1,6 @@
-[![MasterHead](https://static.wixstatic.com/media/3e899a_d32cbe5629b041038ecb2be1a15a49d5~mv2.gif)](https://github.com/ag-richa-13)
-
-
 <h1 align="center">Hi 👋, I'm Richa Agrawal</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="Coding" align="right" width="400">
+<img src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif" alt="Coding" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ag-richa-13&label=Profile%20views&color=0e75b6&style=flat" alt="ag-richa-13" /> </p>
 
@@ -11,7 +8,7 @@
 
 - 💻 I’m currently working as **Software Developer** in **MyTeam11**
 
-- 🌱 I’m currently learning **Unity, Android Studio**
+- 🌱 I’m currently learning **Unity, Android Studio, React, C#, Java**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/ag-richa-13](https://github.com/ag-richa-13)**
 
