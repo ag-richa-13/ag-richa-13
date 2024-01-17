@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/imrichaagrawal" target="blank"><img src="https://img.shields.io/twitter/follow/imrichaagrawal?logo=twitter&style=for-the-badge" alt="imrichaagrawal" /></a> </p>
 
-- 🔭 I’m currently working on **personal portfolio**
+- 🔭 I’m currently working in **MyTeam11** as **Software Developer**
 
 - 🌱 I’m currently learning **C++, DSA**
 
