@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Richa Agrawal</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLl3kRF5kgLnxju_1ZD17bcyO2FY8KcAYhSA&usqp=CAU" alt="Coding" align="right" width="400">
+<img src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40" alt="Coding" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ag-richa-13&label=Profile%20views&color=0e75b6&style=flat" alt="ag-richa-13" /> </p>
 
