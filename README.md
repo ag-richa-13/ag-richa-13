@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/imrichaagrawal" target="blank"><img src="https://img.shields.io/twitter/follow/imrichaagrawal?logo=twitter&style=for-the-badge" alt="imrichaagrawal" /></a> </p>
 
 - 💻 I’m currently working as a **Software Developer** at **MyTeam11**
-- 🌱 I’m currently learning **Unity, Android Studio, React, C#, Java**
+- 🌱 I’m currently learning **Unity, Android Studio, React, C#, Java, Rest API, Typescript**
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/ag-richa-13)
 - 💬 Ask me about **Web Development, Programming, & Testing**
 - 📫 How to reach me: **agrawalricha013@gmail.com**
