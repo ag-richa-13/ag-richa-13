@@ -9,7 +9,7 @@
 - 💻 I’m currently working as a **Software Developer** at **MyTeam11**
 - 🌱 I’m currently learning **Unity, Android Studio, React, C#, Java, Rest API, Typescript**
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/ag-richa-13)
-- 💬 Ask me about **Web Development, Programming, & Testing**
+- 💬 Ask me about **Game Development, Web Development, Programming, & Testing**
 - 📫 How to reach me: **agrawalricha013@gmail.com**
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/ag-richa-13s/)
 
